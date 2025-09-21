@@ -11,7 +11,7 @@ A simple Android app that facilitates the choice of which alcohol to buy if you 
 
 ## Notes
 
-* I'm fully aware that this app could have been quickly coded in a few minutes in another way and might be more polished. However, this project started as a way for me to learn Flutter. If you want to code this idea with AI and monetize it, feel free to do so.  
+* I am fully aware of the fact that this app could've been vibe coded in 20 minutes and it would still be better. However, this project started as a way for me to learn Flutter. If you want to code this idea with AI and monetize it, feel free to do so. 
 * More features may be added in the future, but for now, I'm happy that it works.  
 
 ## Installation
