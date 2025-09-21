@@ -7,7 +7,14 @@ A simple Android app that facilitates the choice of which alcohol to buy if you 
 * Compare multiple bottles of alcohol to find the cheapest option for getting drunk.  
 * Edit or delete bottles you've already added.  
 * The list is sorted by default to show the best deals first.  
-* Your entries are saved, so you don't have to re-enter them each time you open the app.  
+* Your entries are saved, so you don't have to re-enter them each time you open the app.
+
+## Screenshots
+
+<img src="https://github.com/user-attachments/assets/c14dc24b-ca3b-4161-96d8-c48b4bdf1d35" width="200" />
+<img src="https://github.com/user-attachments/assets/4e531d9b-a53c-4df3-8ce5-69cb778fc026" width="200" />
+<img src="https://github.com/user-attachments/assets/0c64ce37-74fc-43eb-ae8d-7c208b981784" width="200" />
+
 
 ## Notes
 
